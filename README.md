@@ -1,5 +1,7 @@
 # Supporting HDR images in your app
 ​
+[Source](https://developer.apple.com/documentation/uikit/images_and_pdf/supporting_hdr_images_in_your_app)
+
 Load, display, edit, and save HDR images using SwiftUI and Core Image.
 ​
 ## Overview
